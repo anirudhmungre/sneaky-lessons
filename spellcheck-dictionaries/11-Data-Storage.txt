@@ -1,0 +1,16 @@
+PyMySQL
+bruh
+PostgreSQL
+dbuser
+dbpasswd
+dburi
+dbport
+emojis
+Tien Shan
+SQLALchemy
+JSONified
+JawsDB
+Postgre
+SQLA
+Lchemy
+Nified 

@@ -1,0 +1,16 @@
+chaperones
+Py's
+Pymaceuticals
+malic
+flavanoids
+ddof
+zscore
+NOAA
+lowerq
+upperq
+DESCR
+MEDV
+nsamples
+Sems
+sems
+pearsonr

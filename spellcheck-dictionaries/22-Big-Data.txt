@@ -1,0 +1,17 @@
+mrjob
+PySpark
+Rjob
+vectorization
+zepl
+jdbc
+JDBC
+trilogyed
+Udfs
+psql
+Aws's
+CIDR
+Csvs
+Pewlett
+Hackard
+amazonaws
+Uncheck
